@@ -3,11 +3,18 @@
 }
 h1{
     border: 3px solid #333;
-    height: 50px;
-    font-size: 4rem;
+    height: 50%;
+    font-size: 3rem;
     padding: 20px;
 }
 button{
     font-size: 2rem;
-    width: inherit;
+    width: calc(100% / 5);
+    padding: 20px;
+
+}
+*{
+    margin: 30pxpt;
+    padding: 0pt;
+    box-sizing: border-box;
 }
