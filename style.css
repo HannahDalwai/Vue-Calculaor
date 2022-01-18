@@ -1,0 +1,13 @@
+.equals{
+    opacity: 0;
+}
+h1{
+    border: 3px solid #333;
+    height: 50px;
+    font-size: 4rem;
+    padding: 20px;
+}
+button{
+    font-size: 2rem;
+    width: inherit;
+}
